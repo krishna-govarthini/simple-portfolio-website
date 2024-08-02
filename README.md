@@ -1,6 +1,6 @@
 # Simple Portfolio Website
 
-This repository contains a simple portfolio website created using HTML and basic CSS. It is my first project from the Full Stack Development course by Error Makes Clever, aimed at understanding HTML tags and CSS styling properties. The website includes a home page and a contact page designed for a clean and straightforward user experience.
+This repository contains a simple portfolio website created using HTML and basic CSS. It is my first project from the Full Stack Development course by Error Makes Clever Academy, aimed at understanding HTML tags and CSS styling properties. The website includes a home page and a contact page designed for a clean and straightforward user experience.
 
 ## Features
 
