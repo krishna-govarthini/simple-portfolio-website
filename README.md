@@ -14,6 +14,6 @@ This repository contains a simple portfolio website created using HTML and basic
 
 ## How to View
 
-You can access my portfolio from this link and feel free to explore:
+You can access my portfolio from this link and feel free to explore: https://krishna-govarthini.github.io/simple-portfolio-website/
 
 Thank you for visiting my portfolio website!
